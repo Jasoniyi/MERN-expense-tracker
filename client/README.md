@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### site url
+https://frosty-rosalind-d2db2c.netlify.app/dashboard
+
 In the project directory, you can run:
 
 ### `yarn start`
